@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine my beautiful Sundari 🌹", // The big question!
+            text: "Will you be my Valentine my beautiful Sundari.. 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Yay! I'm the luckiest man in the world! 🎉💝💖💝💓",
         message: "Now come get your gift, a big umma!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "🎁💖💚🤗💙💝🩷💋❤️💚💕💙"  // These will bounce around
     },
 
     // Color scheme for the website
