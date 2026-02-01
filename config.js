@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://www.youtube.com/watch?v=yB6MCcaFMEo", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dy49hdywo/video/upload/v1769977465/levitating_by_dua_lipa_but_the_vocals_are_9_seconds_delayed_s5lh4p.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
